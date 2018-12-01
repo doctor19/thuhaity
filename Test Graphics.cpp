@@ -22,6 +22,9 @@ main()
       circle(a.xstart,a.ystart,25);
       angle = angle+5;
       delay(50);
+//324123431
+//4321432143214
+//132423143214	
 //      getch();
    }
    getch();
